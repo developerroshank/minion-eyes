@@ -15,7 +15,7 @@
 
 body {
     background-color: #f5d60e;
-    cursor: move;
+    cursor: pointer;
 }
 
 .container {

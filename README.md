@@ -1,1 +1,1 @@
-# minion-eyes
+# Minion Eyes

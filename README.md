@@ -11,7 +11,7 @@ Website Hosted here: https://minioneyes.netlify.app/
 
 ```bash
 $ git clone https://github.com/your-username/project-name.git
-$ cd minion-eyes
+$ cd minion-eyes 
 $ npm install
 ```
 

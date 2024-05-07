@@ -2,7 +2,7 @@
 
 ## Demo 
 
-Website Hosted here: https://minioneyes.netlify.app/
+Website Hosted here: https://minioneyes.netlify.app/ 
 
 ## Installation
 

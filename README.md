@@ -1,6 +1,6 @@
 # Minion Eyes
 
-## Demo 
+## Demo
  
 Website Hosted here: https://minioneyes.netlify.app/ 
 

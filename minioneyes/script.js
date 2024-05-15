@@ -26,7 +26,7 @@ function isTouchDevice() {
 }
 
 /**
- * Same Function for both events 
+ * Same Function for both events
  */
 
 events.forEach((eventType) => {

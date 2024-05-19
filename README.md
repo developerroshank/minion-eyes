@@ -10,7 +10,7 @@ Website Hosted here: https://minioneyes.netlify.app/
 2. `Clone` the forked repository
 
 ```bash
-$ git clone https://github.com/your-username/project-name.git
+$ git clone https://github.com/your-username/project-name.git 
 $ cd minion-eyes 
 $ npm install
 ```
